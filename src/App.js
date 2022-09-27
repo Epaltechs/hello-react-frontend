@@ -10,7 +10,7 @@ function App() {
   const dispatch = useDispatch();
   useEffect(() => {
     dispatch(fetchRocketsDispatch());
-  }, []);
+  },);
   const message = useSelector((state) => state.messagesReducer);
   return (
     <div className="App">
