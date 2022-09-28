@@ -7,7 +7,7 @@ This project is bootstrapped with [Create React App](https://github.com/facebook
 - JavaScript
 - HTML/CSS
 
- - Dependacies
+  - Dependacies
   ```bash
   - linters (Eslint, CSS/ SCSS)
   - react-router-dom v6.2.2
@@ -45,11 +45,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 - LinkedIn: [Emmanuel Paul](https://www.linkedin.com/in/emmanuel-s-paul)
 - Twitter: [Emmanuel Paul](http://twitter.com/@emmapaul247)
 - AngeList: [Emmanuel Paul](https://angel.co/u/emmanuel-s-paul)
-
-:bust_in_silhouette: **Huseyin Biyik**
-- GitHub: [@huseyinbiyik](https://github.com/huseyinbiyik)
-- Twitter: [@huseyin__biyik](https://twitter.com/huseyin__biyik)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/huseyin-b%C4%B1y%C4%B1k/)
 
 ## :handshake: Contributing
 - Contributions, issues, and feature requests are welcome!
